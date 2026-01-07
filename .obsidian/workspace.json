@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "675ce21f944f8f24",
+        "id": "cd77bf36559a3ac2",
         "type": "tabs",
         "children": [
           {
-            "id": "883dfa9c0670efe2",
+            "id": "b929598eb022c0e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solved.ac/class2/코딩 테스트-덩치.md",
+                "file": "단계별 문제/코딩 테스트 - 펠린드롬인지 확인하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "코딩 테스트-덩치"
+              "title": "코딩 테스트 - 펠린드롬인지 확인하기"
             }
           }
         ]
@@ -183,21 +183,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "883dfa9c0670efe2",
+  "active": "b929598eb022c0e0",
   "lastOpenFiles": [
+    "image/Pasted_image_ 20260107002847.png",
+    "image/Pasted_image_ 20260106202337.png",
+    "image/Pasted_image_ 20260105223325.png",
+    "image/Pasted_image_ 20260105205712.png",
+    "image/Pasted_image_ 20260104024327.png",
+    "image/Pasted_image_ 20260103160730.png",
+    "image/Pasted.md",
     "단계별 문제/코딩 테스트 - 펠린드롬인지 확인하기.md",
+    "Pasted.md",
     "solved.ac/class2/코딩 테스트-덩치.md",
     "image/Pasted image 20260105205712.png",
     "image/Pasted image 20260103160730.png",
     "image/Pasted image 20260104024327.png",
     "image/Pasted image 20260105223325.png",
     "image/Pasted image 20260107002847.png",
-    "image/Pasted image 20260106202337.png",
     "image",
-    "새 폴더",
-    "Pasted image 20260105205712.png",
-    "Pasted image 20260103160730.png",
-    "Pasted image 20260104024327.png",
-    "Pasted image 20260105223325.png"
+    "새 폴더"
   ]
 }
