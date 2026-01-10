@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "cd77bf36559a3ac2",
+        "id": "07aa66be5b112e58",
         "type": "tabs",
         "children": [
           {
-            "id": "b929598eb022c0e0",
+            "id": "375aaad17cdb43bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solved.ac/class2/코딩 테스트-덩치.md",
+                "file": "단계별 문제/코딩 테스트 - 펠린드롬인지 확인하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "코딩 테스트-덩치"
+              "title": "코딩 테스트 - 펠린드롬인지 확인하기"
+            }
+          },
+          {
+            "id": "f0ef537a8fb871b8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/KakaoTalk_20260110_225102054.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "KakaoTalk_20260110_225102054"
             }
           }
         ]
@@ -180,25 +192,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b929598eb022c0e0",
+  "active": "375aaad17cdb43bb",
   "lastOpenFiles": [
-    "단계별 문제/코딩 테스트 - 펠린드롬인지 확인하기.md",
-    "image/Pasted_image_ 20260107002847.png",
-    "image/Pasted_image_ 20260106202337.png",
-    "image/Pasted_image_ 20260105223325.png",
-    "image/Pasted_image_ 20260105205712.png",
-    "image/Pasted_image_ 20260104024327.png",
+    "solved.ac/class2/코딩 테스트 - 숫자 카드 2.md",
+    "image/KakaoTalk_20260110_225102054.jpg",
+    "solved.ac/class2/코딩 테스트-덩치.md",
+    "image/Pasted image 20260110203758.png",
+    "image/스크린샷 2026-01-10 174058.png",
+    "image/Pasted image 20260110202531.png",
+    "image/Pasted image 20260110190341.png",
     "image/Pasted_image_ 20260103160730.png",
+    "image/Pasted_image_ 20260104024327.png",
+    "image/Pasted_image_ 20260105205712.png",
+    "image/Pasted_image_ 20260105223325.png",
+    "image/Pasted_image_ 20260106202337.png",
+    "Excalidraw/Drawing 2026-01-10 18.07.04.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "solved.ac/class2/코딩 테스트 - 소수 구하기.md",
+    "단계별 문제/코딩 테스트 - 펠린드롬인지 확인하기.md",
     "image/Pasted.md",
     "Pasted.md",
-    "solved.ac/class2/코딩 테스트-덩치.md",
-    "image/Pasted image 20260105205712.png",
-    "image/Pasted image 20260103160730.png",
-    "image/Pasted image 20260104024327.png",
-    "image/Pasted image 20260105223325.png",
     "image",
     "새 폴더"
   ]
