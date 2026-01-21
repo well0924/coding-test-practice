@@ -8,29 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "375aaad17cdb43bb",
+            "id": "5facbb34ea6c451a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단계별 문제/코딩 테스트 - 펠린드롬인지 확인하기.md",
+                "file": "solved.ac/class2/코딩 테스트 - 설탕 배달.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "코딩 테스트 - 펠린드롬인지 확인하기"
+              "title": "코딩 테스트 - 설탕 배달"
             }
           },
           {
-            "id": "f0ef537a8fb871b8",
+            "id": "b043505f2afb0a90",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/KakaoTalk_20260110_225102054.jpg"
+                "file": "solved.ac/class2/코딩 테스트 - 숫자 카드 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "KakaoTalk_20260110_225102054"
+              "icon": "lucide-file",
+              "title": "코딩 테스트 - 숫자 카드 2"
             }
           }
         ]
@@ -196,25 +198,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "375aaad17cdb43bb",
+  "active": "5facbb34ea6c451a",
   "lastOpenFiles": [
+    "image/설탕배달 1차 통과결과.png",
+    "image/sugerDelieveryCorrectCode3.png",
+    "image/sugerDelieveryCorrectCode2.png",
+    "image/sugerDelieveryCorrectCode1.png",
+    "image/sugerDelivery1.png",
+    "image/sugerDelivery.png",
+    "image/sugerDelieveryCorrectCode4.png",
+    "Excalidraw/Drawing 2026-01-19 23.25.26.excalidraw.md",
+    "image/Pasted image 20260119235503.png",
+    "solved.ac/class2/코딩 테스트 - 설탕 배달.md",
+    "solved.ac/class2/코딩 테스트 - 괄호.md",
     "solved.ac/class2/코딩 테스트 - 숫자 카드 2.md",
-    "image/KakaoTalk_20260110_225102054.jpg",
-    "solved.ac/class2/코딩 테스트-덩치.md",
-    "image/Pasted image 20260110203758.png",
-    "image/스크린샷 2026-01-10 174058.png",
-    "image/Pasted image 20260110202531.png",
-    "image/Pasted image 20260110190341.png",
-    "image/Pasted_image_ 20260103160730.png",
-    "image/Pasted_image_ 20260104024327.png",
-    "image/Pasted_image_ 20260105205712.png",
-    "image/Pasted_image_ 20260105223325.png",
-    "image/Pasted_image_ 20260106202337.png",
+    "image/스크린샷 2026-01-09 162333.png",
+    "image/스크린샷 2026-01-10 130058.png",
+    "image/스크린샷 2026-01-10 162329.png",
     "Excalidraw/Drawing 2026-01-10 18.07.04.excalidraw.md",
+    "solved.ac/class2/코딩 테스트-덩치.md",
+    "단계별 문제/코딩 테스트 - 펠린드롬인지 확인하기.md",
     "Excalidraw",
     "Untitled.canvas",
     "solved.ac/class2/코딩 테스트 - 소수 구하기.md",
-    "단계별 문제/코딩 테스트 - 펠린드롬인지 확인하기.md",
     "image/Pasted.md",
     "Pasted.md",
     "image",
