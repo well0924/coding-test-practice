@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "07aa66be5b112e58",
+        "id": "009d1bbd4f29d4b3",
         "type": "tabs",
         "children": [
           {
-            "id": "a39c7f5c00ae49e5",
+            "id": "96d055572853e67f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "baekjoon-steps/코딩 테스트- 소트 인사이드.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "코딩 테스트- 소트 인사이드"
+              "title": "New tab"
             }
           }
         ]
@@ -184,30 +180,32 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a39c7f5c00ae49e5",
+  "active": "e967838077df0ba8",
   "lastOpenFiles": [
-    "image/sort_inside_final_answer.png",
+    "image/화면 캡처 2026-01-10 232445.png",
     "image/소트인사이드사고그림.jpg",
-    "image/Drawing 2026-01-14 23.30.19.excalidraw.png",
     "image/소트인사이드 2차 통과.png",
+    "image/sort_inside_final_answer.png",
+    "image/sortInside_source_code5.png",
     "image/sortInside_source_code4.png",
     "image/sortInside_source_code3.png",
     "image/sortInside_source_code2.png",
     "image/sortInside_source_code1.png",
-    "image/sortInside_source_code5.png",
-    "image/화면 캡처 2026-01-10 232445.png",
-    "image/스크린샷 2026-01-10 174058.png",
+    "image/Drawing 2026-01-14 23.30.19.excalidraw.png",
     "baekjoon-steps/코딩 테스트- 소트 인사이드.md",
-    "solved.ac/class2/코딩 테스트-덩치.md",
-    "Excalidraw/Drawing 2026-01-14 23.30.19.excalidraw.md",
-    "solved.ac/class2/코딩 테스트 - 숫자 카드 2.md",
     "baekjoon-steps/코딩 테스트 - 펠린드롬인지 확인하기.md",
-    "README.md",
-    "Excalidraw/Drawing 2026-01-10 18.07.04.excalidraw.md",
-    "big-o/Big-O 표기법.md",
     "baekjoon-steps",
-    "baekjoon-steps/코딩 테스트 - 소트 인사이드.md",
-    "big-o",
+    "Excalidraw/Drawing 2026-01-14 23.30.19.excalidraw.md",
+    "solved.ac/class2/코딩 테스트-괄호.md",
+    "image/괄호 1차 테스트 통과.png",
+    "Excalidraw/Drawing 2026-01-21 22.53.19.excalidraw.md",
+    "solved.ac/class2/코딩 테스트 - 설탕 배달.md",
+    "solved.ac/class2/코딩 테스트 - 숫자 카드 2.md",
+    "Excalidraw/Drawing 2026-01-19 23.25.26.excalidraw.md",
+    "solved.ac/class2/코딩 테스트 - 괄호.md",
+    "Excalidraw/Drawing 2026-01-10 18.07.04.excalidraw.md",
+    "solved.ac/class2/코딩 테스트-덩치.md",
+    "단계별 문제/코딩 테스트 - 펠린드롬인지 확인하기.md",
     "Excalidraw",
     "Untitled.canvas",
     "solved.ac/class2/코딩 테스트 - 소수 구하기.md",
