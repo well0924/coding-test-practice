@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "big-o/Big-O 표기법.md",
+                "file": "baekjoon-steps/코딩 테스트- 소트 인사이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big-O 표기법"
+              "title": "코딩 테스트- 소트 인사이드"
             }
           }
         ]
@@ -186,25 +186,28 @@
   },
   "active": "a39c7f5c00ae49e5",
   "lastOpenFiles": [
-    "image/big-o_notation.png",
-    "Excalidraw/Drawing 2026-01-10 18.07.04.excalidraw.md",
+    "image/sort_inside_final_answer.png",
+    "image/소트인사이드사고그림.jpg",
     "image/Drawing 2026-01-14 23.30.19.excalidraw.png",
-    "big-o/Big-O 표기법.md",
+    "image/소트인사이드 2차 통과.png",
+    "image/sortInside_source_code4.png",
+    "image/sortInside_source_code3.png",
+    "image/sortInside_source_code2.png",
+    "image/sortInside_source_code1.png",
+    "image/sortInside_source_code5.png",
     "image/화면 캡처 2026-01-10 232445.png",
-    "baekjoon-steps/코딩 테스트 - 소트 인사이드.md",
-    "image/스크린샷 2026-01-09 162333.png",
-    "image/Pasted_image_ 20260107002847.png",
-    "image/Pasted_image_ 20260106202337.png",
-    "image/Pasted_image_ 20260105223325.png",
-    "image/Pasted_image_ 20260105205712.png",
-    "image/Pasted_image_ 20260104024327.png",
-    "image/Pasted_image_ 20260103160730.png",
-    "image/Pasted image 20260110203758.png",
+    "image/스크린샷 2026-01-10 174058.png",
+    "baekjoon-steps/코딩 테스트- 소트 인사이드.md",
+    "solved.ac/class2/코딩 테스트-덩치.md",
     "Excalidraw/Drawing 2026-01-14 23.30.19.excalidraw.md",
-    "big-o",
     "solved.ac/class2/코딩 테스트 - 숫자 카드 2.md",
     "baekjoon-steps/코딩 테스트 - 펠린드롬인지 확인하기.md",
-    "solved.ac/class2/코딩 테스트-덩치.md",
+    "README.md",
+    "Excalidraw/Drawing 2026-01-10 18.07.04.excalidraw.md",
+    "big-o/Big-O 표기법.md",
+    "baekjoon-steps",
+    "baekjoon-steps/코딩 테스트 - 소트 인사이드.md",
+    "big-o",
     "Excalidraw",
     "Untitled.canvas",
     "solved.ac/class2/코딩 테스트 - 소수 구하기.md",
