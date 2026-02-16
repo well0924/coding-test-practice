@@ -14,19 +14,27 @@
               "type": "markdown",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "file": "solved.ac/class2/코딩 테스트-괄호.md",
 =======
                 "file": "big-o/Big-O 표기법.md",
 >>>>>>> big-o-docs-v2
+=======
+                "file": "yml/YAML 파일.md",
+>>>>>>> yml-docs
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "title": "코딩 테스트-괄호"
 =======
               "title": "Big-O 표기법"
 >>>>>>> big-o-docs-v2
+=======
+              "title": "YAML 파일"
+>>>>>>> yml-docs
             }
           }
         ]
@@ -194,6 +202,7 @@
   },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "96d055572853e67f",
   "lastOpenFiles": [
     "yml/YAML 파일.md",
@@ -208,6 +217,15 @@
     "solved.ac/class2/코딩 테스트 - 설탕 배달.md",
     "big-o/Big-O 표기법.md",
 >>>>>>> big-o-docs-v2
+=======
+  "active": "96d055572853e67f",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-02-16 14.26.39.excalidraw.md",
+    "yml/YAML 파일.md",
+    "solved.ac/class2/코딩 테스트 - 설탕 배달.md",
+    "big-o/Big-O 표기법.md",
+    "yml",
+>>>>>>> yml-docs
     "image/화면 캡처 2026-01-10 232445.png",
     "image/소트인사이드사고그림.jpg",
     "image/소트인사이드 2차 통과.png",
@@ -248,8 +266,11 @@
     "solved.ac/class2/코딩 테스트-괄호.md",
     "Excalidraw/Drawing 2026-01-21 22.53.19.excalidraw.md",
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> solved.ac-class2-parentheses
+=======
+>>>>>>> yml-docs
     "solved.ac/class2/코딩 테스트 - 숫자 카드 2.md",
 =======
     "Excalidraw/Drawing 2026-01-19 23.25.26.excalidraw.md",
