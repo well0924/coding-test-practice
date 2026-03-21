@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solved.ac/class2/코딩 테스트-제로.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "코딩 테스트-제로"
+              "title": "README"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solved.ac/class2/코딩 테스트-제로.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 코딩 테스트-제로"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -200,9 +200,10 @@
   },
   "active": "ede0dcef21e8362f",
   "lastOpenFiles": [
+    "solved.ac/class2/코딩 테스트-제로.md",
+    "Excalidraw/Drawing 2026-02-16 14.26.39.excalidraw.md",
     "solved.ac/class2/코딩 테스트 - 설탕 배달.md",
     "solved.ac/class2/코딩 테스트-괄호.md",
-    "solved.ac/class2/코딩 테스트-제로.md",
     "image/제로 타인 소스코드2.png",
     "image/제로 타인 소스코드1.png",
     "image/제로 타인소스코드3.png",
@@ -211,7 +212,6 @@
     "Excalidraw/Drawing 2026-01-21 22.53.19.excalidraw.md",
     "Excalidraw/Drawing 2026-01-10 18.07.04.excalidraw.md",
     "Excalidraw/Drawing 2026-02-16 17.21.09.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-16 14.26.39.excalidraw.md",
     "image/제로 문제.png",
     "image/화면 캡처 2026-01-10 232445.png",
     "image/제로풀이1.png.jpg",
